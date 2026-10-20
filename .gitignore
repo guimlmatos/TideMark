@@ -1,12 +1,12 @@
 # Arquivos de Chaves e Configurações Sensíveis
 .env
 
-# Pastas de Compilação do PyInstaller e CX_Freeze
+# Pastas de Compilação
 build/
 dist/
 *.spec
 
-# Ambiente Virtual Python
+# Ambiente Virtual
 venv/
 env/
 .venv/
@@ -15,6 +15,6 @@ env/
 __pycache__/
 *.pyc
 
-# Arquivos Temporários de Sistema
+# Arquivos Temporários
 *.log
 *.tmp
